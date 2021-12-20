@@ -1,0 +1,7 @@
+usage: main_checkthat.py [-h] -data_dir [DATA_FOLDER_PATH] -N
+                         [NUTRITIONAL_LABELS] -L [LINGUISTICS] -C [CATEGORIES]
+                         -W [WORD2VEC_EMBEDDINGS] -fs [FEATURE_SELECTION] -qg
+                         [QUANTILES_GROUP] -Q1 [QUANTILE_Q1] -Q2 [QUANTILE_Q2]
+                         -Q3 [QUANTILE_Q3] -Q4 [QUANTILE_Q4] -le [TRAIN_DEC]
+                         -pr [TEST_DEC] -ev [EVAL_DEC]
+main_checkthat.py: error: the following arguments are required: -qg/--quantiles_group

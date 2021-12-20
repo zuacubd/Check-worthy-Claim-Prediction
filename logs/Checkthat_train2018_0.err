@@ -1,0 +1,15 @@
+usage: main_checkthat.py [-h] -data_dir [DATA_FOLDER_PATH] -N
+                         [NUTRITIONAL_LABELS] -L [LINGUISTICS] -C [CATEGORIES]
+                         -W [WORD2VEC_EMBEDDINGS] -fs [FEATURE_SELECTION] -le
+                         [TRAIN_DEC] -pr [TEST_DEC] -ev [EVAL_DEC]
+main_checkthat.py: error: argument -N/--nutritional_labels: invalid int value: '/projets/sig/mullah/nlp/checkthat18'
+usage: main_checkthat.py [-h] -data_dir [DATA_FOLDER_PATH] -N
+                         [NUTRITIONAL_LABELS] -L [LINGUISTICS] -C [CATEGORIES]
+                         -W [WORD2VEC_EMBEDDINGS] -fs [FEATURE_SELECTION] -le
+                         [TRAIN_DEC] -pr [TEST_DEC] -ev [EVAL_DEC]
+main_checkthat.py: error: argument -N/--nutritional_labels: invalid int value: '/projets/sig/mullah/nlp/checkthat18'
+usage: main_checkthat.py [-h] -data_dir [DATA_FOLDER_PATH] -N
+                         [NUTRITIONAL_LABELS] -L [LINGUISTICS] -C [CATEGORIES]
+                         -W [WORD2VEC_EMBEDDINGS] -fs [FEATURE_SELECTION] -le
+                         [TRAIN_DEC] -pr [TEST_DEC] -ev [EVAL_DEC]
+main_checkthat.py: error: argument -N/--nutritional_labels: invalid int value: '/projets/sig/mullah/nlp/checkthat18'

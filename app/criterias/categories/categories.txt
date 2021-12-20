@@ -1,0 +1,338 @@
+art and entertainment/books and literature
+art and entertainment/celebrity fan and gossip
+art and entertainment/comics and animation
+art and entertainment/dance
+art and entertainment/humor
+art and entertainment/movies
+art and entertainment/movies and tv
+art and entertainment/music
+art and entertainment/radio
+art and entertainment/shows and events
+art and entertainment/theatre
+art and entertainment/visual art and design
+art and entertainment
+automotive and vehicles/auto parts
+automotive and vehicles/auto repair
+automotive and vehicles/bicycles and accessories
+automotive and vehicles/boats and watercraft
+automotive and vehicles/buying and selling cars
+automotive and vehicles/campers and rvs
+automotive and vehicles/cars
+automotive and vehicles/certified pre-owned
+automotive and vehicles/commercial vehicles
+automotive and vehicles/electric vehicles
+automotive and vehicles/minivan
+automotive and vehicles/motor shows
+automotive and vehicles/motorcycles
+automotive and vehicles/off-road vehicles
+automotive and vehicles/road-side assistance
+automotive and vehicles/scooters and mopeds
+automotive and vehicles/trucks and suvs
+automotive and vehicles/vehicle brands
+automotive and vehicles/vehicle rental
+automotive and vehicles
+business and industrial/advertising and marketing
+business and industrial/aerospace and defense
+business and industrial/agriculture and forestry
+business and industrial/automation
+business and industrial/biomedical
+business and industrial/business news
+business and industrial/business operations
+business and industrial/business software
+business and industrial/chemicals industry
+business and industrial/company
+business and industrial/construction
+business and industrial/energy
+business and industrial/fashion industry
+business and industrial/food industry
+business and industrial/green solutions
+business and industrial/hospitality industry
+business and industrial/iron and steel industry
+business and industrial/logistics
+business and industrial/manufacturing
+business and industrial/metals
+business and industrial/mining industry
+business and industrial/paper industry
+business and industrial/pharmaceutical industry
+business and industrial/publishing
+business and industrial/record company
+business and industrial/shipbuilding
+business and industrial/tanning
+business and industrial/textile industry
+business and industrial/war industry
+business and industrial
+careers/career advice
+careers/career planning
+careers/job fairs
+careers/job search
+careers/nursing
+careers/resume writing and advice
+careers/telecommuting
+careers/u.s. military
+careers
+education/adult education
+education/alumni and reunions
+education/art history
+education/distance learning
+education/english as a second language
+education/grade school
+education/graduate school
+education/high school
+education/homeschooling
+education/homework and study tips
+education/language learning
+education/school
+education/special education
+education/studying business
+education/teaching and classroom resources
+education
+family and parenting/adoption
+family and parenting/babies and toddlers
+family and parenting/children
+family and parenting/eldercare
+family and parenting/motherhood
+family and parenting/parenting teens
+family and parenting/special needs kids
+family and parenting
+finance/accounting and auditing
+finance/bank
+finance/financial news
+finance/grants, scholarships and financial aid
+finance/investing
+finance/personal finance
+finance
+food and drink/barbecues and grilling
+food and drink/beverages
+food and drink/cuisines
+food and drink/desserts and baking
+food and drink/dining out
+food and drink/food
+food and drink/food allergies
+food and drink/food and grocery retailers
+food and drink/gastronomy
+food and drink/health and lowfat cooking
+food and drink/healthy eating
+food and drink/kosher food
+food and drink/vegan
+food and drink/vegetarian
+food and drink
+health and fitness/addiction
+health and fitness/aging
+health and fitness/alternative medicine
+health and fitness/dental care
+health and fitness/disease
+health and fitness/disorders
+health and fitness/drugs
+health and fitness/exercise
+health and fitness/incest and abuse support
+health and fitness/men's health
+health and fitness/nutrition
+health and fitness/sexuality
+health and fitness/sports medicine
+health and fitness/therapy
+health and fitness/weight loss
+health and fitness/women's health
+health and fitness
+hobbies and interests/art and technology
+hobbies and interests/arts and crafts
+hobbies and interests/astrology
+hobbies and interests/birdwatching
+hobbies and interests/cigars
+hobbies and interests/collecting
+hobbies and interests/games
+hobbies and interests/getting published
+hobbies and interests/guitar
+hobbies and interests/home recording
+hobbies and interests/inventors and patents
+hobbies and interests/magic and illusion
+hobbies and interests/needlework
+hobbies and interests/paranormal phenomena
+hobbies and interests/reading
+hobbies and interests/scrapbooking
+hobbies and interests
+home and garden/appliances
+home and garden/bed and bath
+home and garden/environmental safety
+home and garden/gardening and landscaping
+home and garden/home furnishings
+home and garden/home improvement and repair
+home and garden/interior decorating
+home and garden/laundry
+home and garden/luxury homes
+home and garden/nursery and playroom
+home and garden/pest control
+home and garden/remodeling and construction
+home and garden
+law, govt and politics/armed forces
+law, govt and politics/commentary
+law, govt and politics/espionage and intelligence
+law, govt and politics/government
+law, govt and politics/immigration
+law, govt and politics/law enforcement
+law, govt and politics/legal issues
+law, govt and politics/politics
+law, govt and politics
+news/international news
+news/local news
+news/national news
+news
+pets/animal welfare
+pets/aquariums
+pets/birds
+pets/cats
+pets/dogs
+pets/large animals
+pets/reptiles
+pets/zoo
+pets
+real estate/apartments
+real estate/architects
+real estate/buying and selling homes
+real estate/low income housing
+real estate
+religion and spirituality/alternative religions
+religion and spirituality/atheism and agnosticism
+religion and spirituality/buddhism
+religion and spirituality/christianity
+religion and spirituality/hinduism
+religion and spirituality/islam
+religion and spirituality/judaism
+religion and spirituality
+science/biology
+science/chemistry
+science/computer science
+science/ecology
+science/engineering
+science/geography
+science/geology
+science/mathematics
+science/medicine
+science/physics
+science/social science
+science/weather
+science
+shopping/auctions
+shopping/classifieds
+shopping/gifts
+shopping/resources
+shopping/retail
+shopping/toys
+shopping
+society/crime
+society/dating
+society/gay life
+society/racism
+society/senior living
+society/sex
+society/social institution
+society/teens
+society/unrest and war
+society/welfare
+society/work
+society
+sports/archery
+sports/auto racing
+sports/badminton
+sports/baseball
+sports/basketball
+sports/bicycling
+sports/billiards
+sports/boat racing
+sports/bobsled
+sports/bodybuilding
+sports/bowling
+sports/boxing
+sports/canoeing and kayaking
+sports/cheerleading
+sports/climbing
+sports/cricket
+sports/curling
+sports/diving
+sports/dog sled
+sports/fencing
+sports/fishing
+sports/football
+sports/go kart
+sports/golf
+sports/gymnastics
+sports/handball
+sports/hockey
+sports/horse racing
+sports/horses
+sports/hunting and shooting
+sports/martial arts
+sports/motorcycling
+sports/olympics
+sports/paintball
+sports/parachuting
+sports/polo
+sports/rodeo
+sports/rowing
+sports/rugby
+sports/running and jogging
+sports/sailing
+sports/scuba diving
+sports/skateboarding
+sports/skating
+sports/skiing
+sports/snowboarding
+sports/soccer
+sports/softball
+sports/sports news
+sports/surfing and bodyboarding
+sports/swimming
+sports/table tennis and ping-pong
+sports/tennis
+sports/trekking
+sports/volleyball
+sports/wakeboarding
+sports/walking
+sports/water polo
+sports/weightlifting
+sports/windsurfing
+sports/wrestling
+sports
+style and fashion/accessories
+style and fashion/beauty
+style and fashion/body art
+style and fashion/clothing
+style and fashion/fashion designers
+style and fashion/footwear
+style and fashion/jewelry
+style and fashion/luxury goods
+style and fashion/men 's fashion
+style and fashion/swimwear
+style and fashion/underwear
+style and fashion
+technology and computing/computer certification
+technology and computing/computer crime
+technology and computing/computer reviews
+technology and computing/computer security
+technology and computing/consumer electronics
+technology and computing/data centers
+technology and computing/electronic components
+technology and computing/enterprise technology
+technology and computing/hardware
+technology and computing/internet technology
+technology and computing/mp3 and midi
+technology and computing/networking
+technology and computing/operating systems
+technology and computing/programming languages
+technology and computing/software
+technology and computing/tech news
+technology and computing/technical support
+technology and computing/technological innovation
+technology and computing
+travel/budget travel
+travel/business travel
+travel/honeymoons and getaways
+travel/hotels
+travel/specialty travel
+travel/tourist destinations
+travel/tourist facilities
+travel/transports
+travel/travel agencies
+travel/travel guides
+travel/traveling with kids
+travel/vacation rentals
+travel

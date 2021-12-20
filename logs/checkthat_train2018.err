@@ -1,0 +1,8 @@
+/users/sig/mullah/.local/lib/python3.7/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.neural_network.multilayer_perceptron module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.neural_network. Anything that cannot be imported from sklearn.neural_network is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/users/sig/mullah/.local/lib/python3.7/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.preprocessing.label module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.preprocessing. Anything that cannot be imported from sklearn.preprocessing is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/users/sig/mullah/.local/lib/python3.7/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator LabelBinarizer from version 0.19.1 when using version 0.22.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/users/sig/mullah/.local/lib/python3.7/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator MLPClassifier from version 0.19.1 when using version 0.22.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)

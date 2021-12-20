@@ -1,0 +1,4 @@
+  File "app/main_checkthat.py", line 525
+    if model == "light_gbm"
+                          ^
+SyntaxError: invalid syntax

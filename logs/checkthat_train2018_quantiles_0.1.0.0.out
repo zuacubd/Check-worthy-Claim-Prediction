@@ -1,0 +1,157 @@
+launching ...
+Processing arguments ...
+Feature selection: False
+Training: True
+Testing: True
+Evaluation: False
+Nutritional features: True
+Linguistic features: True
+Category features: True
+Embedding features: True
+Quantiles group: True
+1st quantile: False
+2nd quantile: True
+3rd quantile: False
+4th quantile: False
+Done.
+Data path ...
+Done.
+Setting features flag ...
+Done.
+Features acronym ...
+Features: NLCW
+Setting process ...
+Process: train:True, test:True, and eval:False
+Loading the traing and testing file names ...
+Done.
+Features extractor initializer ...
+Done.
+Feature extraction ...
+/projets/sig/mullah/nlp/checkthat18/resources/categories/train/train_data.txt
+Done.
+Features quantiles group ...
+Training models ...
+Done.
+Prediction for the train set ...
+Done.
+Prediction for the test set ...
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "de". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "de". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "mid". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "mid". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pre". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pre". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "Pipelines". Passing.
+Unknown dependency for token: "Pipelines". Passing.
+Unknown dependency for token: "'". Passing.
+Unknown dependency for token: "'". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "super". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "'". Passing.
+Unknown dependency for token: "super". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "'". Passing.
+Unknown dependency for token: "pre". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pre". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "anti". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "re". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "re". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "pro". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "non". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "re". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "re". Passing.
+Unknown dependency for token: "-". Passing.
+Unknown dependency for token: "Trans". Passing.
+Unknown dependency for token: "Trans". Passing.
+Done.
+done.
