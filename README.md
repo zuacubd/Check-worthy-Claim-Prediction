@@ -1,5 +1,19 @@
 # Check worthiness Estimation (Social media post, Debate, and News)
-The repository contains the code that we wrote for developing information checkworthiness model (CLEF Check-that)
+The repository contains the code that we wrote for developing information checkworthiness model (CLEF Check-that 2017 and 2018)
+
+# What is check worthiness?
+
+# What are the problems?
+
+# Datasets
+
+# Feature Representation
+
+# ML Models
+
+# Results
+
+# Visualisation
 
 Please cite the following reference if you use this code:
 
