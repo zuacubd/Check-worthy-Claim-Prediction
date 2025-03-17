@@ -1,4 +1,4 @@
-# checkthat-information
+# Check worthiness Estimation (Social media post, Debate, and News)
 The repository contains the code that we wrote for developing information checkworthiness model (CLEF Check-that)
 
 Please cite the following reference if you use this code:
